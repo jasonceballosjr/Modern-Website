@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-black-minimalist-flat-music-piano-advertising-background-image_210457.jpg);
+}
+
+#nav1{
+    display: inline-block;
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-family: 'Roboto Mono', monospace;
+}
+#nav2{
+    display: inline-block;
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-family: 'Roboto Mono', monospace;
+    float: right;
+    text-align: right;
+}
+#index{
+    font-size: x-large;
+    padding-left: 550px;
+    text-align: center;
+
+}
+#about{
+    font-size:x-large;
+    text-align: right;
+    padding-right: 575px;
+    font-family: 'Roboto Mono', monospace;
+}
+#bigbox{
+    display: block;
+    background-color: white;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    width: 750px;
+    height: 600px;
+    transform: translateX(570px) translateY(50px);
+}

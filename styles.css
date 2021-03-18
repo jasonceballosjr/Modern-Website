@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://vjloopsfarm.com/wp-content/uploads/2017/12/White-lines-Beats-FullHD-1920x1080_60fps_VJLoop_Nektar-Digital_003.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#nav1{
+    display: inline-block;
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-family: 'Roboto Mono', monospace;
+}
+#nav2{
+    display: inline-block;
+    background-color: white;
+    width: 50%;
+    height: 40px;
+    font-family: 'Roboto Mono', monospace;
+    float: right;
+    text-align: right;
+}
+#index{
+    font-size: x-large;
+    padding-left: 550px;
+    text-align: center;
+
+}
+#about{
+    font-size:x-large;
+    text-align: right;
+    padding-right: 575px;
+    font-family: 'Roboto Mono', monospace;
+}
+#box{
+    height: 200px;
+    width: 500px;
+    background-color: black;
+    transform: translateX(675px);
+}
+#Khalil{
+    text-align: center;
+    color: thistle;
+    transform: translateY(75px);
+    font-family: 'Roboto Mono', monospace;
+}
+
+#underbox{
+    display: inline-block;
+    background-color: white;
+    transform: translateX(620px) translateY(50px);
+    width: 600px;
+    height: 550px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+#container{
+    width: 100%;
+}
